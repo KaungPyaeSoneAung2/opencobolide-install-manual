@@ -5,7 +5,7 @@
 ---
 ## Prerequisite
 
-If you are from Myanmar, You may need  to Connect VPN Internet problems :)
+If you are from Myanmar, You may need  to Connect VPN due to Internet problems :)
 
 ---
 
