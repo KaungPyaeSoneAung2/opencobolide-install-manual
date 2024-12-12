@@ -3,6 +3,10 @@
 *This guide will walk you through the steps to install OpenCobolIDE on macOS.*
 
 ---
+## Prerequisite
+
+If you are from Myanmar, You may need  to Connect VPN Internet problems :)
+--
 
 ## Steps
 
